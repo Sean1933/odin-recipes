@@ -22,6 +22,14 @@ h3 {
 #main {
   font-size: 40px;
   font-weight: bold;
+  border: solid;
+  width: 600px;
+  padding: 50px 0px;
+  padding-left: 80px;
+  
+  margin: 0px auto;
+  background-color: beige;
+  
 }
 
 img {
@@ -29,4 +37,13 @@ img {
   margin: 0 auto;
   height: 300px;
   width: auto;
+}
+
+.card {
+  background-color: beige;
+  border: solid;
+  width: 800px;
+  padding:100px;
+  margin: 50px auto;
+  padding-top: 20px;
 }
